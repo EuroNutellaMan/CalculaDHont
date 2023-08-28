@@ -18,4 +18,4 @@ After that it will ask how many seats need to be assigned, then it will do the f
 1) Download the file and save it wherever you like
 2) Run from a terminal using ```python /path/to/calculadhont.py``` (note: use ```python3 ...``` on Windows)
 
-Browser version coming soon<sup>tm</sup>
+Browser version available [here](https://colab.research.google.com/drive/1NCnPk__kHPcyMKYr2zyDX-wNNq0FdIZc?usp=sharing).
