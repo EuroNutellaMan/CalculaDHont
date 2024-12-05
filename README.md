@@ -1,4 +1,6 @@
 # CalculaD'Hont
+This repository has been moved to [codeberg](https://codeberg.org/EuroNutellaMan/CalculaDHont)
+
 A simple calculator to assign seats from an election based on the D'Hont method.
 
 ## How it works ##
